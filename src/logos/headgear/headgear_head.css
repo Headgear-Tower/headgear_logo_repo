@@ -1,0 +1,11 @@
+.off {
+    transition: all 0.2s;
+    transition-timing-function: ease-in-out;
+    opacity: 0.0;
+}
+
+.on {
+    transition: all 0.2s;
+    transition-timing-function: ease-in-out;
+    opacity: 1.0;
+}
